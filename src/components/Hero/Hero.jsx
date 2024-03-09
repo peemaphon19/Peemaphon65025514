@@ -17,9 +17,9 @@ function Hero() {
                           <TypeAnimation
                                   sequence={[
                                     // Same substring at the start will only be typed out once, initially
-                                    'full stack',
+                                    'full stack.',
                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                    'Webdevloper',
+                                    'Webdevloper.',
                                     1000,
                                   ]}
                                   speed={50}
