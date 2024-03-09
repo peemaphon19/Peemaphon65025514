@@ -11,7 +11,7 @@ function Hero() {
         <div className={styles.hero_content}>
           <div className={styles.hero_info}>
             <p className={styles.text_1}>Hello everyone for coming to watch!</p>
-            <h3 className={styles.text_2}>Peemaphon Wiangin</h3>
+            <h3 className={styles.text_2}>Mr.Peemaphon Wiangin</h3>
             <p className={styles.text_3}>
                           <span>I am a </span>
                           <TypeAnimation
