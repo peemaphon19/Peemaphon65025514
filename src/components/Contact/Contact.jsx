@@ -16,23 +16,23 @@ function Contact() {
                 </p>
                 <p>
                     <address>
-                    4 Privet Drive, <br />
-                    Little Whinging, Surrey
+                    91/2 Pakkayang, Bankang, <br />
+                    Sisatchanalai, Sukhothai
                     </address>
                 </p>
-                <p><MdAlternateEmail/>Byte-Slinger-Dhamma@btc.info</p>
-                <p><SiWhatsapp/>Byte-Slinger-Dhamma</p>
+                <p><MdAlternateEmail/>65025514@up.ac.th</p>
+                <p><SiWhatsapp/>0830441242</p>
             </div>
             <div className={styles.contact_form}>
                 <form action="">
                     <div className={styles.input_group}>
                         <div>
                             <label htmlFor="first name">First Name</label>
-                            <input type="text" placeholder="eg. Somchai"></input>
+                            <input type="text" placeholder="eg. Peemaphon"></input>
                         </div>
                         <div>
                             <label htmlFor="last name">Last Name</label>
-                            <input type="text" placeholder="eg. Jaidee"></input>
+                            <input type="text" placeholder="eg. Wiangin"></input>
                         </div>
                     </div>
                     <label htmlFor="email address">Email Address</label>
